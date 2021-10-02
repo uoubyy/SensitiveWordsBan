@@ -1,0 +1,5 @@
+A simple sample of DFA algorithm (Deterministic Finite Automaton), 
+used in game to filter and replace censor words, like "fuck".
+
+censor.txt 	=> censor words dictionary
+main.cpp	=> test file 	
